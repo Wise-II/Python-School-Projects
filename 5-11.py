@@ -3,7 +3,7 @@ MaxVal = 10
 def main():
     #print table headers
     print("KPH       MPH")
-    print("------------------")
+    print("-----------------")
 
     #prints the values itself
     for kph in range(60,130,10):
